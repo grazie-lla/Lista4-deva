@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f644e3c-9b7b-4bea-a0a3-9b2ffbf64eb4" name="Changes" comment="added class Questao2">
+    <list default="true" id="3f644e3c-9b7b-4bea-a0a3-9b2ffbf64eb4" name="Changes" comment="added class Questao3">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questao3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questao4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questao5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ZKO7kP4so3uzESeJEHMtR8nIOt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,6 +39,7 @@
     "Application.Questao1.executor": "Run",
     "Application.Questao2.executor": "Run",
     "Application.Questao3.executor": "Run",
+    "Application.Questao4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -49,7 +52,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Questao3">
+  <component name="RunManager" selected="Application.Questao4">
     <configuration name="Questao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questao1" />
       <module name="Lista4-deva" />
@@ -71,13 +74,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Questao4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questao4" />
+      <module name="Lista4-deva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Questao4" />
         <item itemvalue="Application.Questao3" />
         <item itemvalue="Application.Questao2" />
         <item itemvalue="Application.Questao1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-5f3ff201" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +105,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702167141909</updated>
-      <workItem from="1702167143738" duration="8700000" />
+      <workItem from="1702167143738" duration="9133000" />
+      <workItem from="1702243377895" duration="5071000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -105,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702237461405</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added class Questao3">
+      <option name="closed" value="true" />
+      <created>1702239248954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702239248954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,16 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="added class Questao2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class Questao2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Questao3.java</url>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="added class Questao3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class Questao3" />
   </component>
 </project>
